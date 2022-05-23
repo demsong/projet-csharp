@@ -1,0 +1,15 @@
+C:\Gestion\bin\Debug\net6.0\Gestion.exe
+C:\Gestion\bin\Debug\net6.0\Gestion.deps.json
+C:\Gestion\bin\Debug\net6.0\Gestion.runtimeconfig.json
+C:\Gestion\bin\Debug\net6.0\Gestion.dll
+C:\Gestion\bin\Debug\net6.0\Gestion.pdb
+C:\Gestion\obj\Debug\net6.0\Gestion.csproj.AssemblyReference.cache
+C:\Gestion\obj\Debug\net6.0\Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gestion\obj\Debug\net6.0\Gestion.AssemblyInfoInputs.cache
+C:\Gestion\obj\Debug\net6.0\Gestion.AssemblyInfo.cs
+C:\Gestion\obj\Debug\net6.0\Gestion.csproj.CoreCompileInputs.cache
+C:\Gestion\obj\Debug\net6.0\Gestion.dll
+C:\Gestion\obj\Debug\net6.0\refint\Gestion.dll
+C:\Gestion\obj\Debug\net6.0\Gestion.pdb
+C:\Gestion\obj\Debug\net6.0\Gestion.genruntimeconfig.cache
+C:\Gestion\obj\Debug\net6.0\ref\Gestion.dll

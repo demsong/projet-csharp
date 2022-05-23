@@ -1,0 +1,8 @@
+1:Nappes:20:disponible
+2:Rideaux:8:Rupture
+3:Draps:4:disponible
+4:Chaussures:5:Reapprovisionnement
+5:Valises:51:Rupture
+6:Tables:9:disponible
+7:Frigos:0:rupture
+8:Lavettes:8:disponible
